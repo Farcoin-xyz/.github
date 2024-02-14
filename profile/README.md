@@ -10,7 +10,7 @@ All Farcoins are housed in a single contract, found here: https://basescan.org/a
 
 ## Oracle for Like Data
 
-The Farcoin contract allows minting of Likes as long as they are authorized by an onchain threshold of signers. Currently, that threshold is 1 and the only signer is a key owned by the Farcoin  team. The Farcoin contract natively supports raising this threshold and raising the threshold to include non-Farcoin team members is a near-term goal. This will ensure no single party can behave maliciously and mint fake Likes.
+The Farcoin contract allows minting Likes as long as they are authorized by an onchain threshold of signers. Currently, that threshold is 1 and the only signer is a key owned by the Farcoin  team. The Farcoin contract natively supports raising this threshold from 1/1 to M/N. Raising it to include non-Farcoin team members (each running independent verification servers) is a near-term goal. This will ensure no single party can behave maliciously and mint Likes based on invalid Farcaster data.
 
 That said, whenever Likes are minted, the contract emits a log event making it easy to Audit the issuance. The log event includes:
 
