@@ -33,11 +33,11 @@ The Farcoin treasury is a Gnosis Safe living at `base:0x933701AC5eE6e1e8c1214A51
 
 The vision for Farcoin is to ultimately be owned and governed by decentralized community of stakeholders. The `FarcoinMinter` includes an `FRC` governance ERC-20 token. The intent is to eventually transfer ownership of the Treasury to these tokenholders. Currently, governance tokens have been granted to the following contributors:
 
-0.1% to alexgrover.eth
-0.1% to perceptive.eth
-0.1% to meemmo.eth
-0.1% to artlu.eth
-0.1% to Jesse Pollak (`0x849151d7D0bF1F34b70d5caD5149D28CC2308bf1`)
+* 0.1% to alexgrover.eth
+* 0.1% to perceptive.eth
+* 0.1% to meemmo.eth
+* 0.1% to artlu.eth
+* 0.1% to Jesse Pollak (`0x849151d7D0bF1F34b70d5caD5149D28CC2308bf1`)
 
 Note: these grants are not endorsements from the recipients. They have been rewarded for helping hatch the idea that is Farcoin. In fact, they may not know they've received these tokens until they see this README :) 
 
