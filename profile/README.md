@@ -8,7 +8,7 @@ Farcoins are Semi-Fungible ERC-1155s. Each user has their own token id - their F
 
 All Farcoins are housed in a single contract, found here: https://basescan.org/address/0x69ac278f393f4daa698e685909b3aedbf95c1c49
 
-## Oracle
+## Oracle for Like Data
 
 The Farcoin contract allows minting of Likes as long as they are authorized by an onchain threshold of signers. Currently, that threshold is 1 and the only signer is a key owned by the Farcoin  team. The Farcoin contract natively supports raising this threshold and raising the threshold to include non-Farcoin team members is a near-term goal. This will ensure no single party can behave maliciously and mint fake Likes.
 
