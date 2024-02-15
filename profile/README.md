@@ -37,8 +37,9 @@ The vision for Farcoin is to ultimately be owned and governed by decentralized c
 * 0.1% to perceptive.eth
 * 0.1% to meemmo.eth
 * 0.1% to artlu.eth
-* 0.1% to Jesse Pollak (`0x849151d7D0bF1F34b70d5caD5149D28CC2308bf1`)
+* 0.1% to @jessepollak (`0x849151d7D0bF1F34b70d5caD5149D28CC2308bf1`)
+* 0.1% to @camille (`0xa674F2C33f504345F50cA6C850F9fd8338612166`)
 
-Note: these grants are not endorsements from the recipients. They have been rewarded for helping hatch the idea that is Farcoin. In fact, they may not know they've received these tokens until they see this README :) 
+Note: these grants are not endorsements from the recipients of Farcoin. They have been awarded for helping hatch the idea that is Farcoin. In fact, they may not know they've received these tokens until they see this README :) 
 
 The remainder of the 10B Farcoins currently sit in the Treasury. 
